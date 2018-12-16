@@ -1,0 +1,21 @@
+#main{
+    background-color: #fff2df;
+     width: 100%;
+     height: 100%;
+ }
+ 
+ .header-logo { 
+     width: 100%;
+     height: 115px;
+ }
+ .button{
+    width: 100%;
+    height: 100%;
+    display: grid;
+    justify-content: center;
+}
+
+
+ion-button{
+    --background : var( --ion-color-warning);
+}

@@ -1,0 +1,19 @@
+{
+    "anime":[
+        {
+            "name":"Naruto",
+            "img":"assets/icon/naruto.jpg",
+            "description":"Deep within the Hidden Leaf Village, sharp and cunning ninja carry an ultimate power while Naruto Uzumaki carries inside the ultimate secret. Twelve years ago, the fourth Hokage sacrificed himself and saved the village by sealing the Nine-Tailed Fox spirit into an orphaned baby boy. Now, this plucky prankster must do what it takes achieve his life-long goal and become the next Hokage!"
+        },
+        {
+            "name":"Dragon Ball Z",
+            "img":"https://images.alphacoders.com/605/thumb-1920-605799.jpg",
+            "description":"Dragon Ball Z follows the adventures of Goku who, along with the Z Warriors, defends the Earth against evil. The action adventures are entertaining and reinforce the concept of good versus evil. Dragon Ball Z teaches valuable character virtues such as teamwork, loyalty, and trustworthiness."
+        },
+        {
+            "name":"Death Note",
+            "img":"https://fsmedia.imgix.net/88/b5/a6/01/774b/4a5f/a717/81321915d34f/now-thats-a-handy-dandy-notebook.jpeg?rect=0%2C0%2C1200%2C600&dpr=2&auto=format%2Ccompress&w=650",
+            "description":"Death Note (Japanese: デスノート Hepburn: Desu Nōto) is a Japanese manga series written by Tsugumi Ohba and illustrated by Takeshi Obata. The story follows Light Yagami, a high school student who stumbles across a mysterious otherworldly notebook: the Death Note, which belonged to the Shinigami Ryuk, and grants its user the power to kill anyone whose name and face he knows. The series centers around Light's subsequent attempts to use the Death Note to change the world into a utopian society without crime as a god-like vigilante named Kira and the subsequent efforts of an elite task-force of law enforcement officials, consisting of members of the Japanese police agency led by L, an enigmatic international detective, to apprehend him and end his reign of terror. "
+        }
+    ]
+}

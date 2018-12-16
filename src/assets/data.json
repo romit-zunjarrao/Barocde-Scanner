@@ -1,0 +1,12 @@
+{
+    "Laptop": [ {
+            "name":"Lenovo",
+            "img":"https://st1.bgr.in/wp-content/uploads/2018/02/ThinkPad-X1-Carbon-5th-gen-feat.jpg",
+            "description":"Deep within the Hidden Leaf Village, sharp and cunning ninja carry an ultimate power while Naruto Uzumaki carries inside the ultimate secret. Twelve years ago, the fourth Hokage sacrificed himself and saved the village by sealing the Nine-Tailed Fox spirit into an orphaned baby boy. Now, this plucky prankster must do what it takes achieve his life-long goal and become the next Hokage!"
+        },
+         {
+        "name":"HP",
+        "img":"https://st1.bgr.in/wp-content/uploads/2018/02/ThinkPad-X1-Carbon-5th-gen-feat.jpg",
+        "description":"Deep within the Hidden Leaf Village, sharp and cunning ninja carry an ultimate power while Naruto Uzumaki carries inside the ultimate secret. Twelve years ago, the fourth Hokage sacrificed himself and saved the village by sealing the Nine-Tailed Fox spirit into an orphaned baby boy. Now, this plucky prankster must do what it takes achieve his life-long goal and become the next Hokage!"
+        }]
+}
