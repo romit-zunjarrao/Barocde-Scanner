@@ -9,7 +9,7 @@ import {FetchDataService} from '../fetch-data.service';
 export class ModalPagePage implements OnInit {
   barcodeData: any;
   flag:boolean=false;
-  constructor(private nav:NavParams, private modalCtrl:ModalController, private fetch:FetchDataService) { }
+  constructor(private nav:NavParams, private modalCtrl:ModalController, public fetch:FetchDataService) { }
 
   ngOnInit() {
     this.barcodeData = this.nav.get('data');

@@ -18,6 +18,10 @@ export class HomePage {
   constructor(private barcodeScanner: BarcodeScanner, private modal:ModalController){}
 
   scan(){
+    this.options = {
+      showTorchButton : true ,
+      showFlipCameraButton	: true
+  }
    this.barcodeScanner.scan(this.options).then(barcodeData => {
       this.barcodeData = barcodeData.text;
       this.openModal();

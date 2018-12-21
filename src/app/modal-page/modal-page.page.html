@@ -14,25 +14,25 @@
             <ion-card-title>{{fetch.data[0].name}} {{fetch.data[0].model}}</ion-card-title>
         </ion-card-header>
       <ion-card-content>
-        <ion-card-header>
-          <ion-card-title>Specification   <ion-icon name="arrow-dropdown" (click)="setFlag()" *ngIf="!flag"> </ion-icon>  
+        <ion-card-header class="Specification">
+          <ion-card-title>Specification<ion-icon name="arrow-dropdown" (click)="setFlag()" *ngIf="!flag"> </ion-icon>  
              <ion-icon name="arrow-dropup" (click)="setFlag()" *ngIf="flag"></ion-icon>
           
           </ion-card-title>
       </ion-card-header>
-        <ion-list *ngIf="flag">
+        <ion-list *ngIf="flag" class="Specification">
           <ion-item>
-            <ion-label>
+            <ion-label  class="Specification">
               <h2>RAM :  {{fetch.data[0].ram}}</h2>
             </ion-label>
           </ion-item>
           <ion-item>
-            <ion-label>
+            <ion-label  class="Specification">
               <h2>PROCESSOR  :  {{fetch.data[0].processor}}</h2>
             </ion-label>
           </ion-item>
           <ion-item>
-            <ion-label>
+            <ion-label  class="Specification">
               <h2>GRAPHIC :  {{fetch.data[0].graphic}}</h2>
             </ion-label>
           </ion-item>
